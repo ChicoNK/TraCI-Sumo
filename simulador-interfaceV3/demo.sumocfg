@@ -1,6 +1,6 @@
 <configuration>
     <input>
         <net-file value="demo.net.xml"/>
-        <route-file value="demo.rou.xml"/>
+        <route-files value="demo.rou.xml"/>
     </input>
 </configuration>    
